@@ -40,5 +40,3 @@ gitBlog trata-se de um projeto de um Blog, através do github issues você pode 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
----
